@@ -2,3 +2,16 @@
 # 支持设置白名单：接口后添加$!
 # The local source list, one line per source, format: channel name, interface address
 # Support setting whitelist: add $! after the interface
+📺央视频道CCTV-1,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv1
+📺央视频道CCTV-4,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv4
+📺央视频道CCTV-5,http://121.60.56.116:10001/rtp/239.69.1.123:10376
+📺央视频道CCTV-7,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv7
+📺央视频道CCTV-9,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv9
+📺央视频道CCTV-10,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv10
+📺央视频道CCTV-11,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv11
+📺央视频道CCTV-12,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv12
+📺央视频道CCTV-13,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv13
+📺央视频道CCTV-14,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv14
+📺央视频道CCTV-15,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv15
+📺央视频道CCTV-16,http://61.149.251.202:4022/rtp/239.3.1.184:8001
+📺央视频道CCTV-17,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv17
