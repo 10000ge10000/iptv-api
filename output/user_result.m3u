@@ -73,8 +73,6 @@ http://163.172.64.96:2017/live/GBa19qrcQYa3/u2c8FLfgkK/234.ts
 http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/74683.ts
 #EXTINF:-1 tvg-id="SNY.SportsNet.New.York.HD.us2" tvg-name="SportsNet New York" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s50038_dark_360w_270h.png" group-title="🏀体育频道",SportsNet New York
 http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3865.ts
-#EXTINF:-1 tvg-id="TNT.Sports.1.HD.uk" tvg-name="TNT Sports 1 UK" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-1-uk.png?raw=true" group-title="🏀体育频道",TNT Sports 1 UK
-http://163.172.64.96:2017/live/GBa19qrcQYa3/u2c8FLfgkK/343.ts
 #EXTINF:-1 tvg-id="99991627" tvg-name="Billiard TV" tvg-logo="https://lge-static.ottera.tv/prod/bbb/linear_channel/anamorphic-logo/465x200/billiard_.png" group-title="🏀体育频道",Billiard TV
 https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/8076993c-bbf4-4dbc-a77a-9b70047f90e0/4.m3u8
 #EXTINF:-1 tvg-id="ESPN8.The.Ocho.us2" tvg-name="ESPN8: The Ocho" tvg-logo="https://garyshare.sharewithyou.dpdns.org/logos/ESPN8_The_Ocho.png" group-title="🏀体育频道",ESPN8: The Ocho

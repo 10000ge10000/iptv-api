@@ -42,7 +42,6 @@ BBC Antiques Roadshow UK,https://dbbg0ax8bgo7d.cloudfront.net/v1/manifest/3722c6
 BBC One UK 01,http://163.172.64.96:2017/live/GBa19qrcQYa3/u2c8FLfgkK/234.ts
 Spectrum SportsNet Los Angeles,http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/74683.ts
 SportsNet New York,http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3865.ts
-TNT Sports 1 UK,http://163.172.64.96:2017/live/GBa19qrcQYa3/u2c8FLfgkK/343.ts
 Billiard TV,https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/8076993c-bbf4-4dbc-a77a-9b70047f90e0/4.m3u8
 ESPN8: The Ocho,https://d3b6q2ou5kp8ke.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-vz67vw1bljinm/aab88f58-adb6-4466-aceb-3b71a6f23411/4.m3u8
 FIFA+,https://d2w9q46ikgrcwx.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-of5cbk3sav3w5/88fc28a8-62ec-492a-9f34-8b52fd57f5d1/2.m3u8
