@@ -1,9 +1,6 @@
 📺央视频道,#genre#
 CCTV-2,http://74.91.26.218:82/live/cctv2hd.m3u8
 CCTV-3,http://74.91.26.218:82/live/cctv3hd.m3u8
-CCTV-4,http://74.91.26.218:82/live/cctv4hd.m3u8
-CCTV-6,http://69.30.245.50/live/cctv6.m3u8
-CCTV-6,http://198.204.240.250:82/live/cctv6.m3u8
 CCTV-7,http://74.91.26.218:82/live/cctv7hd.m3u8
 CCTV-8,http://74.91.26.218:82/live/cctv8hd.m3u8
 CCTV-10,http://74.91.26.218:82/live/cctv10hd.m3u8
@@ -17,9 +14,7 @@ CGTN CN,https://english-livebkali.cgtn.com/live/encgtn_0.m3u8
 📡卫视频道,#genre#
 广东卫视,http://74.91.26.218:82/live/gdwshd.m3u8
 浙江卫视,http://74.91.26.218:82/live/zjwshd.m3u8
-湖南卫视,http://74.91.26.218:82/live/hnwshd.m3u8
 东方卫视,http://74.91.26.218:82/live/dfwshd.m3u8
-东南卫视,http://198.204.240.250:82/live/dnws.m3u8
 河北卫视,https://event.pull.hebtv.com:443/live/live101.m3u8
 江苏卫视,http://74.91.26.218:82/live/jswshd.m3u8
 深圳卫视,http://74.91.26.218:82/live/szwshd.m3u8
