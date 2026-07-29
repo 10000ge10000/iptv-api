@@ -1,10 +1,16 @@
 {
-  "generated_at": "2026-07-29 12:25:50",
+  "generated_at": "2026-07-29 23:27:25",
   "input_entries": 106,
   "unique_urls": 106,
-  "valid_entries": 106,
-  "valid_channels": 106,
-  "invalid_entries": [],
+  "valid_entries": 105,
+  "valid_channels": 105,
+  "invalid_entries": [
+    {
+      "channel": "BBC One UK 01",
+      "url": "http://163.172.64.96:2017/live/GBa19qrcQYa3/u2c8FLfgkK/234.ts",
+      "error": "http://163.172.64.96:2017/live/GBa19qrcQYa3/u2c8FLfgkK/234.ts: Server returned 403 Forbidden (access denied)"
+    }
+  ],
   "valid_streams": [
     {
       "channel": "CCTV-2",
@@ -12,7 +18,7 @@
       "codec": "h264",
       "width": 1280,
       "height": 720,
-      "video_packets": 73
+      "video_packets": 72
     },
     {
       "channel": "CCTV-3",
@@ -36,7 +42,7 @@
       "codec": "h264",
       "width": 1280,
       "height": 720,
-      "video_packets": 72
+      "video_packets": 75
     },
     {
       "channel": "CCTV-10",
@@ -44,7 +50,7 @@
       "codec": "h264",
       "width": 1280,
       "height": 720,
-      "video_packets": 74
+      "video_packets": 73
     },
     {
       "channel": "CCTV-11",
@@ -68,7 +74,7 @@
       "codec": "h264",
       "width": 1280,
       "height": 720,
-      "video_packets": 75
+      "video_packets": 72
     },
     {
       "channel": "CCTV-15",
@@ -84,7 +90,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 73
+      "video_packets": 72
     },
     {
       "channel": "CGTN CN",
@@ -100,7 +106,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 72
+      "video_packets": 73
     },
     {
       "channel": "浙江卫视",
@@ -124,7 +130,7 @@
       "codec": "h264",
       "width": 3840,
       "height": 2160,
-      "video_packets": 75
+      "video_packets": 73
     },
     {
       "channel": "江苏卫视",
@@ -132,7 +138,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 73
+      "video_packets": 75
     },
     {
       "channel": "深圳卫视",
@@ -172,7 +178,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 88
+      "video_packets": 89
     },
     {
       "channel": "Sky News International",
@@ -204,7 +210,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 151
+      "video_packets": 149
     },
     {
       "channel": "TRT World TR",
@@ -220,7 +226,7 @@
       "codec": "h264",
       "width": 1280,
       "height": 720,
-      "video_packets": 180
+      "video_packets": 179
     },
     {
       "channel": "CNN Originals",
@@ -237,14 +243,6 @@
       "width": 1280,
       "height": 720,
       "video_packets": 90
-    },
-    {
-      "channel": "BBC One UK 01",
-      "url": "http://163.172.64.96:2017/live/GBa19qrcQYa3/u2c8FLfgkK/234.ts",
-      "codec": "h264",
-      "width": 1920,
-      "height": 1080,
-      "video_packets": 150
     },
     {
       "channel": "Spectrum SportsNet Los Angeles",
@@ -292,7 +290,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 88
+      "video_packets": 89
     },
     {
       "channel": "PFL",
@@ -340,7 +338,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 88
+      "video_packets": 89
     },
     {
       "channel": "WWE Superstar Central",
@@ -348,7 +346,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 89
+      "video_packets": 88
     },
     {
       "channel": "TSN The Ocho CA",
@@ -532,7 +530,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 89
+      "video_packets": 90
     },
     {
       "channel": "Love Nature 4K",
@@ -540,7 +538,7 @@
       "codec": "hevc",
       "width": 3840,
       "height": 2160,
-      "video_packets": 89
+      "video_packets": 88
     },
     {
       "channel": "FilmRise Forensic Files",
@@ -620,7 +618,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 75
+      "video_packets": 74
     },
     {
       "channel": "RMC Story FR",
@@ -628,7 +626,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 73
+      "video_packets": 75
     },
     {
       "channel": "PBS Food",
@@ -660,7 +658,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 89
+      "video_packets": 88
     },
     {
       "channel": "Stingray DJAZZ",
@@ -668,7 +666,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 89
+      "video_packets": 84
     },
     {
       "channel": "Vevo '70s",
@@ -692,7 +690,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 89
+      "video_packets": 88
     },
     {
       "channel": "Vevo 2K",
@@ -700,7 +698,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 89
+      "video_packets": 87
     },
     {
       "channel": "Vevo Country",
@@ -740,7 +738,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 88
+      "video_packets": 89
     },
     {
       "channel": "Vevo Rock",
@@ -780,7 +778,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 73
+      "video_packets": 74
     },
     {
       "channel": "XITE Nuevo Latino",
@@ -796,7 +794,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 73
+      "video_packets": 74
     },
     {
       "channel": "XITE Spring Vibes",
@@ -804,7 +802,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 74
+      "video_packets": 72
     },
     {
       "channel": "Deluxe RAP DE",
@@ -844,7 +842,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 72
+      "video_packets": 73
     },
     {
       "channel": "France 24 English",
@@ -852,7 +850,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 75
+      "video_packets": 73
     }
   ]
 }

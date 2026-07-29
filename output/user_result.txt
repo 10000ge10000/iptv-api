@@ -34,7 +34,6 @@ CNN Originals,https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132
 BBC Antiques Roadshow UK,https://dbbg0ax8bgo7d.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-5rr52e88156vv-prod/4e195c60-6424-49aa-9666-ace19f590582/2.m3u8
 
 🏀体育频道,#genre#
-BBC One UK 01,http://163.172.64.96:2017/live/GBa19qrcQYa3/u2c8FLfgkK/234.ts
 Spectrum SportsNet Los Angeles,http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/74683.ts
 SportsNet New York,http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3865.ts
 Billiard TV,https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/8076993c-bbf4-4dbc-a77a-9b70047f90e0/4.m3u8
