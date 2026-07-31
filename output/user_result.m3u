@@ -55,8 +55,6 @@ https://citynewsregional.akamaized.net/hls/live/1024052/Regional_Live_7/Video-3M
 https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/3836c9f5-9b7c-4254-90fd-4c8bcfca7f8f/3.m3u8
 #EXTINF:-1 tvg-id="USBC600018CF" tvg-name="BBC Antiques Roadshow UK" tvg-logo="https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/antiques_roadshow_uk._SL500_FMpng_.png" group-title="📰新闻财经",BBC Antiques Roadshow UK
 https://dbbg0ax8bgo7d.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-5rr52e88156vv-prod/4e195c60-6424-49aa-9666-ace19f590582/2.m3u8
-#EXTINF:-1 tvg-id="Spectrum.SportsNet.LA.Dodgers.HD.us2" tvg-name="Spectrum SportsNet Los Angeles" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/spectrum-sportsnet-la-us.png?raw=true" group-title="🏀体育频道",Spectrum SportsNet Los Angeles
-http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/74683.ts
 #EXTINF:-1 tvg-id="99991627" tvg-name="Billiard TV" tvg-logo="https://lge-static.ottera.tv/prod/bbb/linear_channel/anamorphic-logo/465x200/billiard_.png" group-title="🏀体育频道",Billiard TV
 https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/8076993c-bbf4-4dbc-a77a-9b70047f90e0/4.m3u8
 #EXTINF:-1 tvg-id="ESPN8.The.Ocho.us2" tvg-name="ESPN8: The Ocho" tvg-logo="https://garyshare.sharewithyou.dpdns.org/logos/ESPN8_The_Ocho.png" group-title="🏀体育频道",ESPN8: The Ocho
