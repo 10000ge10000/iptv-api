@@ -111,9 +111,6 @@ XITE Rock x Metal,https://d198ro05q94rc4.cloudfront.net/v1/manifest/3722c60a815c
 XITE Spring Vibes,https://dt1s4l2cmiyit.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fcwpee1h7t5cs/530416f1-5263-4b76-b173-89ec9966d010/3.m3u8
 Deluxe RAP DE,https://db7hpmv1jrjri.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-m380ud5ckv9kb/b0ddd142-6bee-4a68-a804-7c42acd2fbe6/3.m3u8
 
-🏙️地方频道,#genre#
-通化新闻综合,http://lsfb.avap.jilintv.cn/zqvk7vpj/channel/43ea5771aa44421591f9dfd2b71f1b9b/index.m3u8
-
 🌍国际频道,#genre#
 TV BRICS Chinese,https://chibrics.mediacdn.ru/cdn/brics/chinese/playlist.m3u8
 ABC News,https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index.m3u8
