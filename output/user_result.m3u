@@ -11,8 +11,6 @@ http://74.91.26.218:82/live/cctv10hd.m3u8
 http://74.91.26.218:82/live/cctv11hd.m3u8
 #EXTINF:-1 tvg-id="CCTV-12" tvg-name="CCTV-12" tvg-logo="https://live.fanmingming.com/tv/CCTV-12.png" group-title="📺央视频道",CCTV-12
 http://74.91.26.218:82/live/cctv12hd.m3u8
-#EXTINF:-1 tvg-id="CCTV-14" tvg-name="CCTV-14" tvg-logo="https://live.fanmingming.com/tv/CCTV-14.png" group-title="📺央视频道",CCTV-14
-http://74.91.26.218:82/live/cctv14hd.m3u8
 #EXTINF:-1 tvg-id="CCTV-15" tvg-name="CCTV-15" tvg-logo="https://live.fanmingming.com/tv/CCTV-15.png" group-title="📺央视频道",CCTV-15
 http://74.91.26.218:82/live/cctv15hd.m3u8
 #EXTINF:-1 tvg-id="CCTV-17" tvg-name="CCTV-17" tvg-logo="https://live.fanmingming.com/tv/CCTV-17.png" group-title="📺央视频道",CCTV-17
