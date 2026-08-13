@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-12 23:06:51",
+  "generated_at": "2026-08-13 11:14:56",
   "input_entries": 98,
   "unique_urls": 98,
   "valid_entries": 98,
@@ -12,7 +12,7 @@
       "codec": "h264",
       "width": 1280,
       "height": 720,
-      "video_packets": 72
+      "video_packets": 73
     },
     {
       "channel": "CCTV-3",
@@ -20,7 +20,7 @@
       "codec": "h264",
       "width": 1280,
       "height": 720,
-      "video_packets": 73
+      "video_packets": 74
     },
     {
       "channel": "CCTV-7",
@@ -28,7 +28,7 @@
       "codec": "h264",
       "width": 1280,
       "height": 720,
-      "video_packets": 88
+      "video_packets": 73
     },
     {
       "channel": "CCTV-10",
@@ -36,7 +36,7 @@
       "codec": "h264",
       "width": 1280,
       "height": 720,
-      "video_packets": 73
+      "video_packets": 75
     },
     {
       "channel": "CCTV-11",
@@ -44,7 +44,7 @@
       "codec": "h264",
       "width": 1280,
       "height": 720,
-      "video_packets": 73
+      "video_packets": 72
     },
     {
       "channel": "CCTV-12",
@@ -52,7 +52,7 @@
       "codec": "h264",
       "width": 1280,
       "height": 720,
-      "video_packets": 73
+      "video_packets": 72
     },
     {
       "channel": "CCTV-15",
@@ -60,7 +60,7 @@
       "codec": "h264",
       "width": 1280,
       "height": 720,
-      "video_packets": 72
+      "video_packets": 73
     },
     {
       "channel": "CCTV-17",
@@ -68,7 +68,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 75
+      "video_packets": 73
     },
     {
       "channel": "CGTN CN",
@@ -84,7 +84,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 73
+      "video_packets": 72
     },
     {
       "channel": "浙江卫视",
@@ -108,7 +108,7 @@
       "codec": "h264",
       "width": 3840,
       "height": 2160,
-      "video_packets": 74
+      "video_packets": 75
     },
     {
       "channel": "江苏卫视",
@@ -188,7 +188,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 151
+      "video_packets": 149
     },
     {
       "channel": "TRT World TR",
@@ -284,7 +284,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 87
+      "video_packets": 90
     },
     {
       "channel": "UFC",
@@ -308,7 +308,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 89
+      "video_packets": 88
     },
     {
       "channel": "TSN The Ocho CA",
@@ -372,7 +372,7 @@
       "codec": "h264",
       "width": 1280,
       "height": 720,
-      "video_packets": 90
+      "video_packets": 89
     },
     {
       "channel": "FilmRise Western",
@@ -492,7 +492,7 @@
       "codec": "hevc",
       "width": 3840,
       "height": 2160,
-      "video_packets": 89
+      "video_packets": 88
     },
     {
       "channel": "FilmRise Forensic Files",
@@ -508,7 +508,7 @@
       "codec": "h264",
       "width": 1280,
       "height": 720,
-      "video_packets": 90
+      "video_packets": 89
     },
     {
       "channel": "FilmRise True Crime",
@@ -524,7 +524,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 90
+      "video_packets": 89
     },
     {
       "channel": "Nature Moments",
@@ -548,7 +548,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 89
+      "video_packets": 88
     },
     {
       "channel": "Comet",
@@ -572,7 +572,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 75
+      "video_packets": 73
     },
     {
       "channel": "RMC Story FR",
@@ -580,7 +580,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 72
+      "video_packets": 73
     },
     {
       "channel": "PBS Food",
@@ -644,7 +644,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 87
+      "video_packets": 90
     },
     {
       "channel": "Vevo 2K",
@@ -652,7 +652,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 87
+      "video_packets": 89
     },
     {
       "channel": "Vevo Country",
@@ -676,7 +676,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 89
+      "video_packets": 87
     },
     {
       "channel": "Vevo Pop",
@@ -684,7 +684,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 89
+      "video_packets": 88
     },
     {
       "channel": "Vevo R&B",
@@ -692,7 +692,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 89
+      "video_packets": 88
     },
     {
       "channel": "XITE 80s Flashback",
@@ -700,7 +700,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 74
+      "video_packets": 72
     },
     {
       "channel": "XITE 90s Throwback",
@@ -708,7 +708,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 74
+      "video_packets": 72
     },
     {
       "channel": "XITE Hits",
@@ -716,7 +716,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 73
+      "video_packets": 74
     },
     {
       "channel": "XITE Just Chill",
@@ -732,7 +732,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 75
+      "video_packets": 73
     },
     {
       "channel": "XITE Rock x Metal",
@@ -740,7 +740,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 73
+      "video_packets": 74
     },
     {
       "channel": "XITE Spring Vibes",
@@ -748,7 +748,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 73
+      "video_packets": 74
     },
     {
       "channel": "Deluxe RAP DE",
@@ -788,7 +788,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 73
+      "video_packets": 75
     }
   ]
 }
