@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-16 10:44:54",
+  "generated_at": "2026-08-16 22:42:23",
   "input_entries": 97,
   "unique_urls": 97,
   "valid_entries": 97,
@@ -10,17 +10,17 @@
       "channel": "CCTV-2",
       "url": "http://74.91.26.218:82/live/cctv2hd.m3u8",
       "codec": "h264",
-      "width": 1920,
-      "height": 1080,
-      "video_packets": 72
+      "width": 1280,
+      "height": 720,
+      "video_packets": 75
     },
     {
       "channel": "CCTV-3",
       "url": "http://74.91.26.218:82/live/cctv3hd.m3u8",
       "codec": "h264",
-      "width": 1920,
-      "height": 1080,
-      "video_packets": 75
+      "width": 1280,
+      "height": 720,
+      "video_packets": 73
     },
     {
       "channel": "CCTV-7",
@@ -28,7 +28,7 @@
       "codec": "h264",
       "width": 1280,
       "height": 720,
-      "video_packets": 75
+      "video_packets": 73
     },
     {
       "channel": "CCTV-10",
@@ -36,7 +36,7 @@
       "codec": "h264",
       "width": 1280,
       "height": 720,
-      "video_packets": 73
+      "video_packets": 72
     },
     {
       "channel": "CCTV-11",
@@ -52,15 +52,15 @@
       "codec": "h264",
       "width": 1280,
       "height": 720,
-      "video_packets": 73
+      "video_packets": 75
     },
     {
       "channel": "CCTV-15",
       "url": "http://74.91.26.218:82/live/cctv15hd.m3u8",
       "codec": "h264",
-      "width": 1920,
-      "height": 1080,
-      "video_packets": 73
+      "width": 1280,
+      "height": 720,
+      "video_packets": 72
     },
     {
       "channel": "CCTV-17",
@@ -68,7 +68,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 74
+      "video_packets": 73
     },
     {
       "channel": "CGTN CN",
@@ -92,7 +92,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 72
+      "video_packets": 73
     },
     {
       "channel": "东方卫视",
@@ -108,7 +108,7 @@
       "codec": "h264",
       "width": 3840,
       "height": 2160,
-      "video_packets": 75
+      "video_packets": 73
     },
     {
       "channel": "江苏卫视",
@@ -148,7 +148,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 88
+      "video_packets": 90
     },
     {
       "channel": "Reuters",
@@ -164,7 +164,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 90
+      "video_packets": 89
     },
     {
       "channel": "BBC News UK",
@@ -180,7 +180,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 90
+      "video_packets": 89
     },
     {
       "channel": "DW English DE",
@@ -188,7 +188,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 155
+      "video_packets": 153
     },
     {
       "channel": "TRT World TR",
@@ -220,7 +220,7 @@
       "codec": "h264",
       "width": 1280,
       "height": 720,
-      "video_packets": 90
+      "video_packets": 85
     },
     {
       "channel": "Billiard TV",
@@ -308,7 +308,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 90
+      "video_packets": 88
     },
     {
       "channel": "TSN The Ocho CA",
@@ -388,7 +388,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 90
+      "video_packets": 85
     },
     {
       "channel": "MGM Present Horror",
@@ -412,7 +412,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 87
+      "video_packets": 88
     },
     {
       "channel": "Universal Movies",
@@ -484,7 +484,7 @@
       "codec": "hevc",
       "width": 3840,
       "height": 2160,
-      "video_packets": 90
+      "video_packets": 88
     },
     {
       "channel": "FilmRise Forensic Files",
@@ -508,7 +508,7 @@
       "codec": "h264",
       "width": 1280,
       "height": 720,
-      "video_packets": 88
+      "video_packets": 89
     },
     {
       "channel": "MagellanTV Wildest",
@@ -540,7 +540,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 89
+      "video_packets": 88
     },
     {
       "channel": "Comet",
@@ -564,7 +564,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 73
+      "video_packets": 75
     },
     {
       "channel": "RMC Story FR",
@@ -572,7 +572,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 75
+      "video_packets": 74
     },
     {
       "channel": "PBS Food",
@@ -596,7 +596,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 89
+      "video_packets": 88
     },
     {
       "channel": "CTV Laughs CA",
@@ -612,7 +612,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 89
+      "video_packets": 87
     },
     {
       "channel": "Vevo '70s",
@@ -628,7 +628,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 89
+      "video_packets": 90
     },
     {
       "channel": "Vevo '90s",
@@ -668,7 +668,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 89
+      "video_packets": 90
     },
     {
       "channel": "Vevo Pop",
@@ -676,7 +676,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 89
+      "video_packets": 88
     },
     {
       "channel": "Vevo R&B",
@@ -684,7 +684,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 87
+      "video_packets": 89
     },
     {
       "channel": "XITE 80s Flashback",
@@ -700,7 +700,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 74
+      "video_packets": 71
     },
     {
       "channel": "XITE Hits",
@@ -708,7 +708,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 72
+      "video_packets": 74
     },
     {
       "channel": "XITE Just Chill",
@@ -724,7 +724,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 72
+      "video_packets": 75
     },
     {
       "channel": "XITE Rock x Metal",
@@ -764,7 +764,7 @@
       "codec": "h264",
       "width": 1280,
       "height": 720,
-      "video_packets": 73
+      "video_packets": 75
     },
     {
       "channel": "Chifeng News",
