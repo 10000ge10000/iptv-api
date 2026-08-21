@@ -139,8 +139,6 @@ https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043
 https://d1dagx0hs2fkxs.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-2p2o2x977e2oh/1684a6c6-7cce-480a-88c0-aff91aab84f5/0.m3u8
 #EXTINF:-1 tvg-id="RMC.Story.fr" tvg-name="RMC Story FR" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b8/RMC_Story_2025.svg" group-title="🌍欧美频道",RMC Story FR
 https://d171yrj5ba7twq.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-c5al169c4n0ck/63cd71b0-38bc-4416-8e96-4384ea5bac34/0.m3u8
-#EXTINF:-1 tvg-id="US13000081O" tvg-name="PBS Food" tvg-logo="https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/PBS_Food_Logo_Vertical_White2._SL500_FMpng_.png" group-title="🌍欧美频道",PBS Food
-https://aka-live1050.delivery.roku.com/96414c68-02f2-4e5c-8e5d-355025ccf724/t2-origin/out/v1/live_1080.m3u8
 #EXTINF:-1 tvg-id="CA14000028T" tvg-name="CTV @ Home CA" tvg-logo="https://provider-static.plex.tv/epg/cms/production/9c6ea13d-726d-40b7-9153-97e9dec7af7f/CTVatHome_Logo_ForLightBackgrounds_1500x1000.png" group-title="🌍欧美频道",CTV @ Home CA
 https://d1ieuq3tbxyiyt.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-zv27yfxabsqcr/d20c04d4-1577-446c-b551-5bb288121a09/3.m3u8
 #EXTINF:-1 tvg-id="CA35000025N" tvg-name="CTV Gets Real CA" tvg-logo="https://provider-static.plex.tv/epg/cms/production/ee12f084-98af-4e37-bad0-7f03fb9fca6e/CTVGetsReal_Plex_Logo_ForDarkBackgrounds_1500x1000.png" group-title="🌍欧美频道",CTV Gets Real CA
