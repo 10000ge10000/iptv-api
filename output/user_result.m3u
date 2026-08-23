@@ -183,8 +183,6 @@ https://dt1s4l2cmiyit.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da6
 https://db7hpmv1jrjri.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-m380ud5ckv9kb/b0ddd142-6bee-4a68-a804-7c42acd2fbe6/3.m3u8
 #EXTINF:-1 tvg-id="TV BRICS Chinese" tvg-name="TV BRICS Chinese" tvg-logo="https://live.fanmingming.com/tv/TV BRICS Chinese.png" group-title="🌍国际频道",TV BRICS Chinese
 https://chibrics.mediacdn.ru/cdn/brics/chinese/playlist.m3u8
-#EXTINF:-1 tvg-id="ABC News" tvg-name="ABC News" tvg-logo="https://live.fanmingming.com/tv/ABC News.png" group-title="🌍国际频道",ABC News
-https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index.m3u8
 #EXTINF:-1 tvg-id="Chifeng News" tvg-name="Chifeng News" tvg-logo="https://live.fanmingming.com/tv/Chifeng News.png" group-title="🌍国际频道",Chifeng News
 http://play1-qk.nmtv.cn/live/1735546697341033.m3u8
 #EXTINF:-1 tvg-id="France 24 English" tvg-name="France 24 English" tvg-logo="https://live.fanmingming.com/tv/France 24 English.png" group-title="🌍国际频道",France 24 English
