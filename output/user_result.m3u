@@ -85,8 +85,6 @@ https://aka-live1050.delivery.roku.com/d83b2941-9473-4d27-adb0-aec056e72ef8/t2-o
 https://aka-live1050.delivery.roku.com/9f8d19b2-1dfc-432a-bc3e-e1dacf2f0e4e/t2-origin/out/v1/live_720.m3u8
 #EXTINF:-1 tvg-id="CAAJ40000077N" tvg-name="FilmRise Free Movies" tvg-logo="https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/Carbon_Integration_Station_Image_Update/FR_FreeMovies_FireTV_Logo_1920x1080._SL500_FMpng_.png" group-title="🎬影视剧场",FilmRise Free Movies
 https://aka-live1050.delivery.roku.com/1c6ad6fa-bf05-4887-9469-74eb48c81627/t2-origin/out/v1/live_720.m3u8
-#EXTINF:-1 tvg-id="CA35000044I" tvg-name="FilmRise Horror" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/6a0629e467b5502c906136dadac290a0/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1766001400459_RokuChannel_FilmRiseHorror_HUD_Logo_260x147.png" group-title="🎬影视剧场",FilmRise Horror
-https://aka-live1050.delivery.roku.com/148be9ff-1ae2-439c-a3f0-fd55dfa506ab/t2-origin/out/v1/live_720.m3u8
 #EXTINF:-1 tvg-id="CAAJ27000159K" tvg-name="FilmRise Western" tvg-logo="https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/Carbon_Integration_Station_Image_Update/FR_Western_FireTV_Logo_1920x1080._SL500_FMpng_.png" group-title="🎬影视剧场",FilmRise Western
 https://aka-live1050.delivery.roku.com/19152b37-cae5-4c48-9cd1-3d18d0857485/t2-origin/out/v1/live_720.m3u8
 #EXTINF:-1 tvg-id="5263332f746c6b1bed25aa6c105a79d9" tvg-name="MGM Present" tvg-logo="https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/mgm_presents_us._SL500_FMpng_.png" group-title="🎬影视剧场",MGM Present
@@ -115,8 +113,6 @@ https://52aad07d9d4f4d479d9b27e08ddf9e8b.mediatailor.us-west-2.amazonaws.com/v1/
 https://dh18i7whff86v.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-pslwq5nud9zg9/fc2273de-2ae1-4ed2-905d-739cf431eb30/0.m3u8
 #EXTINF:-1 tvg-id="USBA3400003IP" tvg-name="Love Nature 4K" tvg-logo="https://garyshare.sharewithyou.dpdns.org/logos/Love_Nature.png" group-title="📚纪录科教",Love Nature 4K
 https://pb-ehs1glsha1juy.akamaized.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-ehs1glsha1juy/f2141f37-1f48-475b-ba54-b9efb62346db/0.m3u8
-#EXTINF:-1 tvg-id="62945e18ab825bfd8b4995d9bd14917b" tvg-name="FilmRise Forensic Files" tvg-logo="https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/Carbon_Integration_Station_Image_Update/FR_ForenscFiles_FireTV_Logo_1920x1080._SL500_FMpng_.png" group-title="📚纪录科教",FilmRise Forensic Files
-https://aka-live1050.delivery.roku.com/44ad8bf1-82c2-476d-89c2-0ee89d0747b5/t2-origin/out/v1/live_720.m3u8
 #EXTINF:-1 tvg-id="16722bc43ef05012afa2297def830266" tvg-name="FilmRise Mysteries" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/16722bc43ef05012afa2297def830266/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1766001466359_RokuChannel_FilmRiseMysteries_HUD_Logo_260x147.png" group-title="📚纪录科教",FilmRise Mysteries
 https://aka-live1050.delivery.roku.com/6958d32d-d93b-4cbd-81ca-aab20001570b/t2-origin/out/v1/live_720.m3u8
 #EXTINF:-1 tvg-id="692086" tvg-name="FilmRise True Crime" tvg-logo="https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/Filmrise_True_Crime._SL500_FMpng_.png" group-title="📚纪录科教",FilmRise True Crime

@@ -50,7 +50,6 @@ CW Gold,https://d1d726ny1vain2.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef3
 FilmRise British TV,https://aka-live1050.delivery.roku.com/d83b2941-9473-4d27-adb0-aec056e72ef8/t2-origin/out/v1/live_720.m3u8
 FilmRise Classic TV,https://aka-live1050.delivery.roku.com/9f8d19b2-1dfc-432a-bc3e-e1dacf2f0e4e/t2-origin/out/v1/live_720.m3u8
 FilmRise Free Movies,https://aka-live1050.delivery.roku.com/1c6ad6fa-bf05-4887-9469-74eb48c81627/t2-origin/out/v1/live_720.m3u8
-FilmRise Horror,https://aka-live1050.delivery.roku.com/148be9ff-1ae2-439c-a3f0-fd55dfa506ab/t2-origin/out/v1/live_720.m3u8
 FilmRise Western,https://aka-live1050.delivery.roku.com/19152b37-cae5-4c48-9cd1-3d18d0857485/t2-origin/out/v1/live_720.m3u8
 MGM Present,https://ffef67628f584802af88ab884a963471.mediatailor.us-west-2.amazonaws.com/v1/manifest/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-1071-MGMPRESENTS-TCLTV/7035defd-1fc3-49cd-9dd6-8f646549cc42/0.m3u8
 MGM Present Horror,https://99f62fea411048679ce5e233e88f2b95.mediatailor.us-west-2.amazonaws.com/v1/manifest/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-1217-MGMPRESENTSHORROR-TCLTV/55852247-e42e-4f5f-81b9-54a3f0a893bf/0.m3u8
@@ -69,7 +68,6 @@ The LEGO Channel,https://dh18i7whff86v.cloudfront.net/v1/manifest/3722c60a815c19
 
 📚纪录科教,#genre#
 Love Nature 4K,https://pb-ehs1glsha1juy.akamaized.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-ehs1glsha1juy/f2141f37-1f48-475b-ba54-b9efb62346db/0.m3u8
-FilmRise Forensic Files,https://aka-live1050.delivery.roku.com/44ad8bf1-82c2-476d-89c2-0ee89d0747b5/t2-origin/out/v1/live_720.m3u8
 FilmRise Mysteries,https://aka-live1050.delivery.roku.com/6958d32d-d93b-4cbd-81ca-aab20001570b/t2-origin/out/v1/live_720.m3u8
 FilmRise True Crime,https://aka-live1050.delivery.roku.com/22b66942-f85a-4a33-9440-61fea2cac667/t2-origin/out/v1/live_720.m3u8
 MagellanTV Wildest,https://s8host3.localnow.api.cms.amdvids.com/v1/manifest/c189661feba961c19bc5fb60b57879ee9b84548a/config10/fdc864bc-5776-4756-90d6-b0902043c249/0.m3u8

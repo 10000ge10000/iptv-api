@@ -1,10 +1,21 @@
 {
-  "generated_at": "2026-08-27 20:36:43",
+  "generated_at": "2026-08-28 06:14:01",
   "input_entries": 93,
   "unique_urls": 93,
-  "valid_entries": 93,
-  "valid_channels": 93,
-  "invalid_entries": [],
+  "valid_entries": 91,
+  "valid_channels": 91,
+  "invalid_entries": [
+    {
+      "channel": "FilmRise Horror",
+      "url": "https://aka-live1050.delivery.roku.com/148be9ff-1ae2-439c-a3f0-fd55dfa506ab/t2-origin/out/v1/live_720.m3u8",
+      "error": "https://aka-live1050.delivery.roku.com/148be9ff-1ae2-439c-a3f0-fd55dfa506ab/t2-origin/out/v1/live_720.m3u8: Invalid data found when processing input"
+    },
+    {
+      "channel": "FilmRise Forensic Files",
+      "url": "https://aka-live1050.delivery.roku.com/44ad8bf1-82c2-476d-89c2-0ee89d0747b5/t2-origin/out/v1/live_720.m3u8",
+      "error": "https://aka-live1050.delivery.roku.com/44ad8bf1-82c2-476d-89c2-0ee89d0747b5/t2-origin/out/v1/live_720.m3u8: Invalid data found when processing input"
+    }
+  ],
   "valid_streams": [
     {
       "channel": "CCTV-2",
@@ -12,7 +23,7 @@
       "codec": "h264",
       "width": 1280,
       "height": 720,
-      "video_packets": 75
+      "video_packets": 74
     },
     {
       "channel": "CCTV-3",
@@ -20,7 +31,7 @@
       "codec": "h264",
       "width": 1280,
       "height": 720,
-      "video_packets": 73
+      "video_packets": 72
     },
     {
       "channel": "CCTV-7",
@@ -76,7 +87,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 73
+      "video_packets": 75
     },
     {
       "channel": "浙江卫视",
@@ -84,7 +95,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 74
+      "video_packets": 73
     },
     {
       "channel": "东方卫视",
@@ -100,7 +111,7 @@
       "codec": "h264",
       "width": 3840,
       "height": 2160,
-      "video_packets": 73
+      "video_packets": 75
     },
     {
       "channel": "江苏卫视",
@@ -108,7 +119,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 73
+      "video_packets": 75
     },
     {
       "channel": "深圳卫视",
@@ -116,7 +127,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 73
+      "video_packets": 75
     },
     {
       "channel": "CNN",
@@ -156,7 +167,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 88
+      "video_packets": 89
     },
     {
       "channel": "BBC News UK",
@@ -172,7 +183,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 90
+      "video_packets": 89
     },
     {
       "channel": "DW English DE",
@@ -196,7 +207,7 @@
       "codec": "h264",
       "width": 1280,
       "height": 720,
-      "video_packets": 179
+      "video_packets": 180
     },
     {
       "channel": "CNN Originals",
@@ -212,7 +223,7 @@
       "codec": "h264",
       "width": 1280,
       "height": 720,
-      "video_packets": 90
+      "video_packets": 85
     },
     {
       "channel": "Billiard TV",
@@ -236,7 +247,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 89
+      "video_packets": 90
     },
     {
       "channel": "PFL",
@@ -244,7 +255,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 87
+      "video_packets": 89
     },
     {
       "channel": "Red Bull TV",
@@ -308,7 +319,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 90
+      "video_packets": 88
     },
     {
       "channel": "CW Forever",
@@ -348,14 +359,6 @@
       "codec": "h264",
       "width": 1280,
       "height": 720,
-      "video_packets": 87
-    },
-    {
-      "channel": "FilmRise Horror",
-      "url": "https://aka-live1050.delivery.roku.com/148be9ff-1ae2-439c-a3f0-fd55dfa506ab/t2-origin/out/v1/live_720.m3u8",
-      "codec": "h264",
-      "width": 1280,
-      "height": 720,
       "video_packets": 89
     },
     {
@@ -364,7 +367,7 @@
       "codec": "h264",
       "width": 1280,
       "height": 720,
-      "video_packets": 90
+      "video_packets": 89
     },
     {
       "channel": "MGM Present",
@@ -388,7 +391,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 88
+      "video_packets": 89
     },
     {
       "channel": "OuterSphere by Lionsgate",
@@ -396,7 +399,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 88
+      "video_packets": 87
     },
     {
       "channel": "Universal Movies",
@@ -420,7 +423,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 89
+      "video_packets": 88
     },
     {
       "channel": "BritBox Mysteries UK",
@@ -460,7 +463,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 89
+      "video_packets": 90
     },
     {
       "channel": "Love Nature 4K",
@@ -468,15 +471,7 @@
       "codec": "hevc",
       "width": 3840,
       "height": 2160,
-      "video_packets": 89
-    },
-    {
-      "channel": "FilmRise Forensic Files",
-      "url": "https://aka-live1050.delivery.roku.com/44ad8bf1-82c2-476d-89c2-0ee89d0747b5/t2-origin/out/v1/live_720.m3u8",
-      "codec": "h264",
-      "width": 1280,
-      "height": 720,
-      "video_packets": 89
+      "video_packets": 88
     },
     {
       "channel": "FilmRise Mysteries",
@@ -548,7 +543,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 74
+      "video_packets": 75
     },
     {
       "channel": "RMC Story FR",
@@ -556,7 +551,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 75
+      "video_packets": 73
     },
     {
       "channel": "CTV @ Home CA",
@@ -564,7 +559,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 89
+      "video_packets": 88
     },
     {
       "channel": "CTV Gets Real CA",
@@ -580,7 +575,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 90
+      "video_packets": 88
     },
     {
       "channel": "Stingray DJAZZ",
@@ -588,7 +583,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 89
+      "video_packets": 90
     },
     {
       "channel": "Vevo '70s",
@@ -596,7 +591,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 90
+      "video_packets": 89
     },
     {
       "channel": "Vevo '80s",
@@ -676,7 +671,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 73
+      "video_packets": 72
     },
     {
       "channel": "XITE Hits",
@@ -692,7 +687,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 74
+      "video_packets": 73
     },
     {
       "channel": "XITE Nuevo Latino",
@@ -700,7 +695,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 74
+      "video_packets": 72
     },
     {
       "channel": "XITE Rock x Metal",
@@ -716,7 +711,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 74
+      "video_packets": 73
     },
     {
       "channel": "Deluxe RAP DE",
@@ -724,7 +719,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 77
+      "video_packets": 74
     },
     {
       "channel": "TV BRICS Chinese",
