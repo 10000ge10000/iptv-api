@@ -12,7 +12,6 @@ CCTV-17,http://74.91.26.218:82/live/cctv17hd.m3u8
 广东卫视,http://74.91.26.218:82/live/gdwshd.m3u8
 浙江卫视,http://74.91.26.218:82/live/zjwshd.m3u8
 东方卫视,http://74.91.26.218:82/live/dfwshd.m3u8
-河北卫视,https://event.pull.hebtv.com:443/live/live101.m3u8
 江苏卫视,http://74.91.26.218:82/live/jswshd.m3u8
 深圳卫视,http://74.91.26.218:82/live/szwshd.m3u8
 
