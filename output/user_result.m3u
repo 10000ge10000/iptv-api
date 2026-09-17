@@ -109,8 +109,6 @@ https://aka-live1050.delivery.roku.com/6958d32d-d93b-4cbd-81ca-aab20001570b/t2-o
 https://aka-live1050.delivery.roku.com/22b66942-f85a-4a33-9440-61fea2cac667/t2-origin/out/v1/live_720.m3u8
 #EXTINF:-1 tvg-id="USAJ340000677" tvg-name="MagellanTV Wildest" tvg-logo="https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/Freevee_MagellanTV_Wildest_002._SL170_FMpng_.png" group-title="📚纪录科教",MagellanTV Wildest
 https://s8host3.localnow.api.cms.amdvids.com/v1/manifest/c189661feba961c19bc5fb60b57879ee9b84548a/config10/fdc864bc-5776-4756-90d6-b0902043c249/0.m3u8
-#EXTINF:-1 tvg-id="b182852fa5860ed0017de42c7b9ce05a" tvg-name="Nature Moments" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/b182852fa5860ed0017de42c7b9ce05a/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1735672320363_NatureMoments_Roku_HUD_260x147_centeraligned.png" group-title="📚纪录科教",Nature Moments
-https://aka-live1050.delivery.roku.com/d219883b-5654-402f-9391-33e9144cad39/t2-origin/out/v1/live_1080.m3u8
 #EXTINF:-1 tvg-id="USBB3200001MG" tvg-name="REELZ Famous &amp; Infamous" tvg-logo="https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/ReelzFASTChannel_StationLogoArt_3840x2160_1._SL500_FMpng_.png" group-title="📚纪录科教",REELZ Famous & Infamous
 https://pb-pskpwdav4v1e3.akamaized.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-pskpwdav4v1e3/285d2802-77e5-459a-950e-c055bd2ace07/0.m3u8
 #EXTINF:-1 tvg-id="CA14000105P" tvg-name="CTV Gridlock CA" tvg-logo="https://provider-static.plex.tv/epg/cms/production/c147d5a8-6a75-4446-a21f-24ecaead8252/CTVGridlock_Logo_ForDarkBackgrounds_1500x1000.png" group-title="📚纪录科教",CTV Gridlock CA
