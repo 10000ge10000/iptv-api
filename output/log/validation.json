@@ -1,10 +1,21 @@
 {
-  "generated_at": "2026-09-29 16:34:04",
+  "generated_at": "2026-09-30 01:22:03",
   "input_entries": 75,
   "unique_urls": 75,
-  "valid_entries": 75,
-  "valid_channels": 75,
-  "invalid_entries": [],
+  "valid_entries": 73,
+  "valid_channels": 73,
+  "invalid_entries": [
+    {
+      "channel": "BBC News UK",
+      "url": "https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8",
+      "error": "probe timeout"
+    },
+    {
+      "channel": "XITE Hits",
+      "url": "https://d726x48n2pd5h.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-skxr1pazhltvp/c70b5479-c97b-407b-9caf-4dc3877797bb/3.m3u8",
+      "error": "probe timeout"
+    }
+  ],
   "valid_streams": [
     {
       "channel": "CCTV-2",
@@ -12,14 +23,14 @@
       "codec": "h264",
       "width": 1280,
       "height": 720,
-      "video_packets": 75
+      "video_packets": 74
     },
     {
       "channel": "CCTV-3",
       "url": "http://74.91.26.218:82/live/cctv3hd.m3u8",
       "codec": "h264",
-      "width": 1280,
-      "height": 720,
+      "width": 1920,
+      "height": 1080,
       "video_packets": 72
     },
     {
@@ -28,7 +39,7 @@
       "codec": "h264",
       "width": 1280,
       "height": 720,
-      "video_packets": 74
+      "video_packets": 75
     },
     {
       "channel": "CCTV-10",
@@ -36,7 +47,7 @@
       "codec": "h264",
       "width": 1280,
       "height": 720,
-      "video_packets": 74
+      "video_packets": 75
     },
     {
       "channel": "CCTV-11",
@@ -44,7 +55,7 @@
       "codec": "h264",
       "width": 1280,
       "height": 720,
-      "video_packets": 75
+      "video_packets": 74
     },
     {
       "channel": "CCTV-12",
@@ -52,7 +63,7 @@
       "codec": "h264",
       "width": 1280,
       "height": 720,
-      "video_packets": 73
+      "video_packets": 72
     },
     {
       "channel": "CCTV-15",
@@ -60,7 +71,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 73
+      "video_packets": 75
     },
     {
       "channel": "CCTV-17",
@@ -92,7 +103,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 73
+      "video_packets": 74
     },
     {
       "channel": "江苏卫视",
@@ -100,7 +111,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 75
+      "video_packets": 73
     },
     {
       "channel": "深圳卫视",
@@ -108,7 +119,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 73
+      "video_packets": 74
     },
     {
       "channel": "CNN",
@@ -132,7 +143,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 88
+      "video_packets": 90
     },
     {
       "channel": "Reuters",
@@ -140,7 +151,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 88
+      "video_packets": 89
     },
     {
       "channel": "Sky News International",
@@ -149,14 +160,6 @@
       "width": 1920,
       "height": 1080,
       "video_packets": 89
-    },
-    {
-      "channel": "BBC News UK",
-      "url": "https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8",
-      "codec": "h264",
-      "width": 1280,
-      "height": 720,
-      "video_packets": 149
     },
     {
       "channel": "Euronews FR",
@@ -204,7 +207,7 @@
       "codec": "h264",
       "width": 1280,
       "height": 720,
-      "video_packets": 85
+      "video_packets": 87
     },
     {
       "channel": "Billiard TV",
@@ -212,7 +215,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 90
+      "video_packets": 89
     },
     {
       "channel": "ESPN8: The Ocho",
@@ -300,7 +303,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 90
+      "video_packets": 87
     },
     {
       "channel": "CW Forever",
@@ -364,7 +367,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 87
+      "video_packets": 89
     },
     {
       "channel": "Universal Western",
@@ -452,7 +455,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 89
+      "video_packets": 88
     },
     {
       "channel": "Comet",
@@ -476,7 +479,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 75
+      "video_packets": 73
     },
     {
       "channel": "RMC Story FR",
@@ -492,7 +495,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 89
+      "video_packets": 88
     },
     {
       "channel": "CTV Gets Real CA",
@@ -516,7 +519,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 89
+      "video_packets": 90
     },
     {
       "channel": "XITE 80s Flashback",
@@ -532,14 +535,6 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 73
-    },
-    {
-      "channel": "XITE Hits",
-      "url": "https://d726x48n2pd5h.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-skxr1pazhltvp/c70b5479-c97b-407b-9caf-4dc3877797bb/3.m3u8",
-      "codec": "h264",
-      "width": 1920,
-      "height": 1080,
       "video_packets": 74
     },
     {
@@ -548,7 +543,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 74
+      "video_packets": 73
     },
     {
       "channel": "XITE Nuevo Latino",
@@ -556,7 +551,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 75
+      "video_packets": 74
     },
     {
       "channel": "XITE Rock x Metal",
@@ -572,7 +567,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 73
+      "video_packets": 75
     },
     {
       "channel": "Deluxe RAP DE",
@@ -580,7 +575,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 76
+      "video_packets": 75
     },
     {
       "channel": "TV BRICS Chinese",
@@ -604,7 +599,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 75
+      "video_packets": 73
     }
   ]
 }
