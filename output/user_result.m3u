@@ -25,8 +25,6 @@ http://74.91.26.218:82/live/dfwshd.m3u8
 http://74.91.26.218:82/live/jswshd.m3u8
 #EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://live.fanmingming.com/tv/深圳卫视.png" group-title="📡卫视频道",深圳卫视
 http://74.91.26.218:82/live/szwshd.m3u8
-#EXTINF:-1 tvg-id="CNN.HD.us2" tvg-name="CNN" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cnn-us.png?raw=true" group-title="📰新闻财经",CNN
-https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 tvg-id="USBA300024TN" tvg-name="LiveNOW from FOX" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/live-now-fox-us.png?raw=true" group-title="📰新闻财经",LiveNOW from FOX
 https://s11host2.localnow.api.cms.amdvids.com/v1/manifest/c189661feba961c19bc5fb60b57879ee9b84548a/config13/25a2f26d-fa83-469b-a0c6-0d4508fec2c0/2.m3u8
 #EXTINF:-1 tvg-id="Newsmax.TV.HD.us2" tvg-name="Newsmax" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/newsmax-tv-us.png?raw=true" group-title="📰新闻财经",Newsmax

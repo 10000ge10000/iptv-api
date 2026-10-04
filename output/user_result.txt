@@ -16,7 +16,6 @@ CCTV-17,http://74.91.26.218:82/live/cctv17hd.m3u8
 深圳卫视,http://74.91.26.218:82/live/szwshd.m3u8
 
 📰新闻财经,#genre#
-CNN,https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 LiveNOW from FOX,https://s11host2.localnow.api.cms.amdvids.com/v1/manifest/c189661feba961c19bc5fb60b57879ee9b84548a/config13/25a2f26d-fa83-469b-a0c6-0d4508fec2c0/2.m3u8
 Newsmax,https://nmx1ota.akamaized.net/hls/live/2107010/Live_1/3.m3u8
 Reuters,https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/e7493ea5-5c1c-4d7a-a3f7-e95516048ad8/3.m3u8
