@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25 14:27:58",
+  "generated_at": "2026-10-26 00:29:01",
   "input_entries": 69,
   "unique_urls": 69,
   "valid_entries": 69,
@@ -12,7 +12,7 @@
       "codec": "h264",
       "width": 1280,
       "height": 720,
-      "video_packets": 73
+      "video_packets": 74
     },
     {
       "channel": "CCTV-3",
@@ -20,7 +20,7 @@
       "codec": "h264",
       "width": 1280,
       "height": 720,
-      "video_packets": 73
+      "video_packets": 72
     },
     {
       "channel": "CCTV-7",
@@ -36,7 +36,7 @@
       "codec": "h264",
       "width": 1280,
       "height": 720,
-      "video_packets": 90
+      "video_packets": 74
     },
     {
       "channel": "CCTV-11",
@@ -52,7 +52,7 @@
       "codec": "h264",
       "width": 1280,
       "height": 720,
-      "video_packets": 75
+      "video_packets": 73
     },
     {
       "channel": "CCTV-15",
@@ -76,7 +76,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 74
+      "video_packets": 73
     },
     {
       "channel": "浙江卫视",
@@ -108,7 +108,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 73
+      "video_packets": 75
     },
     {
       "channel": "LiveNOW from FOX",
@@ -124,7 +124,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 88
+      "video_packets": 90
     },
     {
       "channel": "Reuters",
@@ -156,7 +156,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 153
+      "video_packets": 151
     },
     {
       "channel": "TRT World TR",
@@ -172,7 +172,7 @@
       "codec": "h264",
       "width": 1280,
       "height": 720,
-      "video_packets": 180
+      "video_packets": 179
     },
     {
       "channel": "CNN Originals",
@@ -180,7 +180,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 88
+      "video_packets": 90
     },
     {
       "channel": "BBC Antiques Roadshow UK",
@@ -212,7 +212,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 89
+      "video_packets": 90
     },
     {
       "channel": "PFL",
@@ -236,7 +236,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 88
+      "video_packets": 90
     },
     {
       "channel": "Strongman Champions League",
@@ -316,7 +316,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 88
+      "video_packets": 89
     },
     {
       "channel": "OuterSphere by Lionsgate",
@@ -324,7 +324,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 88
+      "video_packets": 87
     },
     {
       "channel": "Universal Movies",
@@ -380,7 +380,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 89
+      "video_packets": 90
     },
     {
       "channel": "FilmRise Mysteries",
@@ -420,7 +420,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 88
+      "video_packets": 89
     },
     {
       "channel": "Comet",
@@ -444,7 +444,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 75
+      "video_packets": 73
     },
     {
       "channel": "RMC Story FR",
@@ -460,7 +460,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 89
+      "video_packets": 88
     },
     {
       "channel": "CTV Gets Real CA",
@@ -476,7 +476,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 90
+      "video_packets": 88
     },
     {
       "channel": "Stingray DJAZZ",
@@ -484,7 +484,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 89
+      "video_packets": 86
     },
     {
       "channel": "XITE 80s Flashback",
@@ -492,7 +492,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 72
+      "video_packets": 74
     },
     {
       "channel": "XITE 90s Throwback",
@@ -500,7 +500,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 74
+      "video_packets": 73
     },
     {
       "channel": "XITE Just Chill",
@@ -508,7 +508,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 74
+      "video_packets": 72
     },
     {
       "channel": "XITE Nuevo Latino",
@@ -516,7 +516,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 74
+      "video_packets": 73
     },
     {
       "channel": "XITE Rock x Metal",
@@ -540,7 +540,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 76
+      "video_packets": 75
     },
     {
       "channel": "Chifeng News",
@@ -556,7 +556,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 74
+      "video_packets": 73
     }
   ]
 }
