@@ -49,8 +49,6 @@ https://dbbg0ax8bgo7d.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da6
 https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/8076993c-bbf4-4dbc-a77a-9b70047f90e0/4.m3u8
 #EXTINF:-1 tvg-id="ESPN8.The.Ocho.us2" tvg-name="ESPN8: The Ocho" tvg-logo="https://garyshare.sharewithyou.dpdns.org/logos/ESPN8_The_Ocho.png" group-title="🏀体育频道",ESPN8: The Ocho
 https://d3b6q2ou5kp8ke.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-vz67vw1bljinm/aab88f58-adb6-4466-aceb-3b71a6f23411/4.m3u8
-#EXTINF:-1 tvg-id="NBC.Sports.Now.us2" tvg-name="NBC Sports NOW" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s114140_dark_360w_270h.png" group-title="🏀体育频道",NBC Sports NOW
-https://d4whmvwm0rdvi.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-nbcu-linear/9ed59304-2f35-4c88-9b99-34153edef42b/4.m3u8
 #EXTINF:-1 tvg-id="US350000231" tvg-name="PFL" tvg-logo="https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/PFL_032426_Station_Logo_Art_Transparent._SL500_FMpng_.png" group-title="🏀体育频道",PFL
 https://aka-live1050.delivery.roku.com/120da388-708f-4b8f-b4f4-8d564c348eb1/t2-origin/out/v1/live_1080.m3u8
 #EXTINF:-1 tvg-id="Red Bull TV" tvg-name="Red Bull TV" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/international/red-bull-tv-int.png?raw=true" group-title="🏀体育频道",Red Bull TV
@@ -59,8 +57,6 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 https://d39yjeivnywvts.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ww9fq2xfgtfog/edaaeec2-d7b8-4a80-aa03-601309764d5a/0.m3u8
 #EXTINF:-1 tvg-id="99951180" tvg-name="Strongman Champions League" tvg-logo="https://provider-static.plex.tv/epg/cms/production/80fb7204-c306-4759-a0d7-c4e829650c22/StrongmanChampionsLeague_Channel-Logo-Light-1500px.png" group-title="🏀体育频道",Strongman Champions League
 https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/ad15bc3b-8829-47e5-8a6d-258b501ca01c/5.m3u8
-#EXTINF:-1 tvg-id="US4100001KP" tvg-name="Women's Sports Network" tvg-logo="https://provider-static.plex.tv/epg/cms/production/5c5587dd-f93b-42db-b0dc-6b7a78801c3d/WSNLogoColor_1500x1000.png" group-title="🏀体育频道",Women's Sports Network
-https://d39accvx65hq9o.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ngwzz9m41tnrd/ea1fdc6f-3d1d-481b-9a7d-b9944f86e3f1/3.m3u8
 #EXTINF:-1 tvg-id="CA1400003R3" tvg-name="TSN The Ocho CA" tvg-logo="https://provider-static.plex.tv/epg/cms/production/55c77728-ccf9-4405-8a9b-b3d4c4c0cbcd/TSNOcho_Logo_ForDarkBackgrounds_1500x1000.png" group-title="🏀体育频道",TSN The Ocho CA
 https://d3pnbvng3bx2nj.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rds8g35qfqrnv/77d9db0d-3fde-4e0c-a2fd-150fc780c9b7/3.m3u8
 #EXTINF:-1 tvg-id="99951377" tvg-name="AMC Thrillers" tvg-logo="https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/AMCN_AMCThrillers_Freevee_logo-white_1920x1080_v011._SL500_FMpng_.png" group-title="🎬影视剧场",AMC Thrillers
@@ -107,8 +103,6 @@ https://dhjd4u7ds8bgi.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da6
 https://fast-channels.sinclairstoryline.com/COMET/index_1.m3u8
 #EXTINF:-1 tvg-id="ION.Television.HD.us2" tvg-name="ION Television" tvg-logo="https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/16x9Background/ION-FallCampaign25_AmazonLiveChannels_ChannelLogoArt_1920x1080_002._SL500_FMpng_.png" group-title="🌍欧美频道",ION Television
 https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/a5e7ebd8-80a4-49ed-8337-3f63f84673cc/1.m3u8
-#EXTINF:-1 tvg-id="RMC.Découverte.fr" tvg-name="RMC Découverte FR" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/af/RMC_Découverte_2025.svg" group-title="🌍欧美频道",RMC Découverte FR
-https://d1dagx0hs2fkxs.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-2p2o2x977e2oh/1684a6c6-7cce-480a-88c0-aff91aab84f5/0.m3u8
 #EXTINF:-1 tvg-id="RMC.Story.fr" tvg-name="RMC Story FR" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b8/RMC_Story_2025.svg" group-title="🌍欧美频道",RMC Story FR
 https://d171yrj5ba7twq.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-c5al169c4n0ck/63cd71b0-38bc-4416-8e96-4384ea5bac34/0.m3u8
 #EXTINF:-1 tvg-id="CA14000028T" tvg-name="CTV @ Home CA" tvg-logo="https://provider-static.plex.tv/epg/cms/production/9c6ea13d-726d-40b7-9153-97e9dec7af7f/CTVatHome_Logo_ForLightBackgrounds_1500x1000.png" group-title="🌍欧美频道",CTV @ Home CA
