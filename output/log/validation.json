@@ -1,10 +1,16 @@
 {
-  "generated_at": "2026-11-02 20:26:18",
+  "generated_at": "2026-11-03 03:31:22",
   "input_entries": 61,
   "unique_urls": 61,
-  "valid_entries": 61,
-  "valid_channels": 61,
-  "invalid_entries": [],
+  "valid_entries": 60,
+  "valid_channels": 60,
+  "invalid_entries": [
+    {
+      "channel": "Universal Movies",
+      "url": "https://d4whmvwm0rdvi.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-nbcu-linear/e7275bfb-fb8d-49d8-969f-854481fa7e71/4.m3u8",
+      "error": "https://d4whmvwm0rdvi.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-nbcu-linear/e7275bfb-fb8d-49d8-969f-854481fa7e71/4.m3u8: Invalid data found when processing input"
+    }
+  ],
   "valid_streams": [
     {
       "channel": "CCTV-2",
@@ -12,15 +18,15 @@
       "codec": "h264",
       "width": 1280,
       "height": 720,
-      "video_packets": 73
+      "video_packets": 75
     },
     {
       "channel": "CCTV-3",
       "url": "http://74.91.26.218:82/live/cctv3hd.m3u8",
       "codec": "h264",
-      "width": 1920,
-      "height": 1080,
-      "video_packets": 73
+      "width": 1280,
+      "height": 720,
+      "video_packets": 72
     },
     {
       "channel": "CCTV-7",
@@ -36,7 +42,7 @@
       "codec": "h264",
       "width": 1280,
       "height": 720,
-      "video_packets": 74
+      "video_packets": 73
     },
     {
       "channel": "CCTV-11",
@@ -44,7 +50,7 @@
       "codec": "h264",
       "width": 1280,
       "height": 720,
-      "video_packets": 75
+      "video_packets": 72
     },
     {
       "channel": "CCTV-12",
@@ -60,7 +66,7 @@
       "codec": "h264",
       "width": 1280,
       "height": 720,
-      "video_packets": 75
+      "video_packets": 73
     },
     {
       "channel": "CCTV-17",
@@ -68,7 +74,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 75
+      "video_packets": 73
     },
     {
       "channel": "广东卫视",
@@ -76,7 +82,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 73
+      "video_packets": 75
     },
     {
       "channel": "浙江卫视",
@@ -100,7 +106,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 73
+      "video_packets": 72
     },
     {
       "channel": "深圳卫视",
@@ -140,7 +146,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 89
+      "video_packets": 90
     },
     {
       "channel": "Euronews FR",
@@ -156,7 +162,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 149
+      "video_packets": 153
     },
     {
       "channel": "TRT World TR",
@@ -180,7 +186,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 88
+      "video_packets": 90
     },
     {
       "channel": "BBC Antiques Roadshow UK",
@@ -188,7 +194,7 @@
       "codec": "h264",
       "width": 1280,
       "height": 720,
-      "video_packets": 90
+      "video_packets": 85
     },
     {
       "channel": "Billiard TV",
@@ -212,7 +218,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 89
+      "video_packets": 87
     },
     {
       "channel": "Red Bull TV",
@@ -236,7 +242,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 90
+      "video_packets": 84
     },
     {
       "channel": "TSN The Ocho CA",
@@ -311,14 +317,6 @@
       "video_packets": 88
     },
     {
-      "channel": "Universal Movies",
-      "url": "https://d4whmvwm0rdvi.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-nbcu-linear/e7275bfb-fb8d-49d8-969f-854481fa7e71/4.m3u8",
-      "codec": "h264",
-      "width": 1920,
-      "height": 1080,
-      "video_packets": 87
-    },
-    {
       "channel": "Universal Western",
       "url": "https://d4whmvwm0rdvi.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-nbcu-linear/a121f0f1-6195-47d3-aaeb-aebe124b0511/4.m3u8",
       "codec": "h264",
@@ -364,7 +362,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 89
+      "video_packets": 88
     },
     {
       "channel": "REELZ Famous & Infamous",
@@ -396,7 +394,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 88
+      "video_packets": 89
     },
     {
       "channel": "CTV @ Home CA",
@@ -404,7 +402,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 88
+      "video_packets": 90
     },
     {
       "channel": "CTV Gets Real CA",
@@ -428,7 +426,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 89
+      "video_packets": 88
     },
     {
       "channel": "XITE 80s Flashback",
@@ -444,7 +442,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 71
+      "video_packets": 74
     },
     {
       "channel": "XITE Just Chill",
@@ -460,7 +458,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 74
+      "video_packets": 72
     },
     {
       "channel": "XITE Spring Vibes",
@@ -468,7 +466,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 74
+      "video_packets": 73
     },
     {
       "channel": "Deluxe RAP DE",
@@ -476,7 +474,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 75
+      "video_packets": 72
     },
     {
       "channel": "Chifeng News",
@@ -484,7 +482,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 73
+      "video_packets": 75
     },
     {
       "channel": "France 24 English",
