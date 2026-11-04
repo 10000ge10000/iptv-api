@@ -71,8 +71,6 @@ https://aka-live1050.delivery.roku.com/19152b37-cae5-4c48-9cd1-3d18d0857485/t2-o
 https://ffef67628f584802af88ab884a963471.mediatailor.us-west-2.amazonaws.com/v1/manifest/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-1071-MGMPRESENTS-TCLTV/7035defd-1fc3-49cd-9dd6-8f646549cc42/0.m3u8
 #EXTINF:-1 tvg-id="MGM Present Horror" tvg-name="MGM Present Horror" tvg-logo="https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/mgm_presents_horror._SL170_FMpng_.png" group-title="🎬影视剧场",MGM Present Horror
 https://99f62fea411048679ce5e233e88f2b95.mediatailor.us-west-2.amazonaws.com/v1/manifest/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-1217-MGMPRESENTSHORROR-TCLTV/55852247-e42e-4f5f-81b9-54a3f0a893bf/0.m3u8
-#EXTINF:-1 tvg-id="99951244" tvg-name="NBC Comedy Vault" tvg-logo="https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/nbc_comedy_vault._SL170_FMpng_.png" group-title="🎬影视剧场",NBC Comedy Vault
-https://d4whmvwm0rdvi.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-nbcu-linear/a90cc32f-3289-4647-8b23-a28125cfa538/4.m3u8
 #EXTINF:-1 tvg-id="USBD1200007FE" tvg-name="OuterSphere by Lionsgate" tvg-logo="https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/outersphere._SL500_FMpng_.png" group-title="🎬影视剧场",OuterSphere by Lionsgate
 https://d3o593mz1glx8d.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-1ca6ra6358f5t/00b50ee1-5798-469a-b438-53e6c394eccc/3.m3u8
 #EXTINF:-1 tvg-id="GB3000041I" tvg-name="Sony One Action HITS UK" tvg-logo="https://d1biytugnv36sr.cloudfront.net/resize?width=400&amp;height=200&amp;url=https://static.frequency.com/studio/sony/channels/EN_LG_FAST_ActionHits_ChannelLogo_Horizontal.png" group-title="🎬影视剧场",Sony One Action HITS UK
