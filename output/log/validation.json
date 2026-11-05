@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05 02:35:26",
+  "generated_at": "2026-11-05 18:29:42",
   "input_entries": 57,
   "unique_urls": 57,
   "valid_entries": 57,
@@ -28,7 +28,7 @@
       "codec": "h264",
       "width": 1280,
       "height": 720,
-      "video_packets": 73
+      "video_packets": 75
     },
     {
       "channel": "CCTV-10",
@@ -36,7 +36,7 @@
       "codec": "h264",
       "width": 1280,
       "height": 720,
-      "video_packets": 73
+      "video_packets": 74
     },
     {
       "channel": "CCTV-11",
@@ -52,15 +52,15 @@
       "codec": "h264",
       "width": 1280,
       "height": 720,
-      "video_packets": 73
+      "video_packets": 72
     },
     {
       "channel": "CCTV-15",
       "url": "http://74.91.26.218:82/live/cctv15hd.m3u8",
       "codec": "h264",
-      "width": 1920,
-      "height": 1080,
-      "video_packets": 74
+      "width": 1280,
+      "height": 720,
+      "video_packets": 73
     },
     {
       "channel": "CCTV-17",
@@ -132,7 +132,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 88
+      "video_packets": 89
     },
     {
       "channel": "Sky News International",
@@ -140,7 +140,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 88
+      "video_packets": 89
     },
     {
       "channel": "Euronews FR",
@@ -180,7 +180,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 88
+      "video_packets": 89
     },
     {
       "channel": "BBC Antiques Roadshow UK",
@@ -252,7 +252,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 86
+      "video_packets": 87
     },
     {
       "channel": "CW Forever",
@@ -276,7 +276,7 @@
       "codec": "h264",
       "width": 1280,
       "height": 720,
-      "video_packets": 89
+      "video_packets": 5
     },
     {
       "channel": "MGM Present",
@@ -348,7 +348,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 88
+      "video_packets": 90
     },
     {
       "channel": "Comet",
@@ -380,7 +380,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 89
+      "video_packets": 88
     },
     {
       "channel": "CTV Laughs CA",
@@ -388,7 +388,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 88
+      "video_packets": 89
     },
     {
       "channel": "Stingray DJAZZ",
@@ -396,7 +396,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 87
+      "video_packets": 88
     },
     {
       "channel": "XITE 80s Flashback",
@@ -404,7 +404,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 72
+      "video_packets": 74
     },
     {
       "channel": "XITE 90s Throwback",
@@ -412,7 +412,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 72
+      "video_packets": 74
     },
     {
       "channel": "XITE Just Chill",
@@ -420,7 +420,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 74
+      "video_packets": 72
     },
     {
       "channel": "XITE Rock x Metal",
@@ -428,7 +428,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 75
+      "video_packets": 74
     },
     {
       "channel": "XITE Spring Vibes",
@@ -436,7 +436,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 75
+      "video_packets": 73
     },
     {
       "channel": "Deluxe RAP DE",
@@ -444,7 +444,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 73
+      "video_packets": 75
     },
     {
       "channel": "Chifeng News",
