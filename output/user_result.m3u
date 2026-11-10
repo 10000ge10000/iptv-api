@@ -59,8 +59,6 @@ https://d39yjeivnywvts.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da
 https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/ad15bc3b-8829-47e5-8a6d-258b501ca01c/5.m3u8
 #EXTINF:-1 tvg-id="CA1400003R3" tvg-name="TSN The Ocho CA" tvg-logo="https://provider-static.plex.tv/epg/cms/production/55c77728-ccf9-4405-8a9b-b3d4c4c0cbcd/TSNOcho_Logo_ForDarkBackgrounds_1500x1000.png" group-title="🏀体育频道",TSN The Ocho CA
 https://d3pnbvng3bx2nj.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rds8g35qfqrnv/77d9db0d-3fde-4e0c-a2fd-150fc780c9b7/3.m3u8
-#EXTINF:-1 tvg-id="99951377" tvg-name="AMC Thrillers" tvg-logo="https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/AMCN_AMCThrillers_Freevee_logo-white_1920x1080_v011._SL500_FMpng_.png" group-title="🎬影视剧场",AMC Thrillers
-https://18f2fbf906cb473e8adbe37026e7e27f.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Vizio_RushByAMC/dbfca017-81b9-4a86-af1e-debe7e1a7666/4.m3u8
 #EXTINF:-1 tvg-id="US25000075Y" tvg-name="CW Forever" tvg-logo="https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/cw_forever._SL500_FMpng_.png" group-title="🎬影视剧场",CW Forever
 https://d1sknsnbkyvie.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-sbcl5hxexbihh/38ec3205-dcc5-4c0f-a047-917eb2054891/0.m3u8
 #EXTINF:-1 tvg-id="US25000063S" tvg-name="CW Gold" tvg-logo="https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/cw_fold._SL500_FMpng_.png" group-title="🎬影视剧场",CW Gold
