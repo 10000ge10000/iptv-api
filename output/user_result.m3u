@@ -75,8 +75,6 @@ https://52aad07d9d4f4d479d9b27e08ddf9e8b.mediatailor.us-west-2.amazonaws.com/v1/
 https://s8host3.localnow.api.cms.amdvids.com/v1/manifest/c189661feba961c19bc5fb60b57879ee9b84548a/config10/fdc864bc-5776-4756-90d6-b0902043c249/0.m3u8
 #EXTINF:-1 tvg-id="USBB3200001MG" tvg-name="REELZ Famous &amp; Infamous" tvg-logo="https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/ReelzFASTChannel_StationLogoArt_3840x2160_1._SL500_FMpng_.png" group-title="📚纪录科教",REELZ Famous & Infamous
 https://pb-pskpwdav4v1e3.akamaized.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-pskpwdav4v1e3/285d2802-77e5-459a-950e-c055bd2ace07/0.m3u8
-#EXTINF:-1 tvg-id="CA14000105P" tvg-name="CTV Gridlock CA" tvg-logo="https://provider-static.plex.tv/epg/cms/production/c147d5a8-6a75-4446-a21f-24ecaead8252/CTVGridlock_Logo_ForDarkBackgrounds_1500x1000.png" group-title="📚纪录科教",CTV Gridlock CA
-https://dhjd4u7ds8bgi.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ses39ewew36zq/edd17cd1-3ddc-42bd-9941-e780391c4ff5/3.m3u8
 #EXTINF:-1 tvg-id="Comet.us2" tvg-name="Comet" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s97051_dark_360w_270h.png" group-title="🌍欧美频道",Comet
 https://fast-channels.sinclairstoryline.com/COMET/index_1.m3u8
 #EXTINF:-1 tvg-id="ION.Television.HD.us2" tvg-name="ION Television" tvg-logo="https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/16x9Background/ION-FallCampaign25_AmazonLiveChannels_ChannelLogoArt_1920x1080_002._SL500_FMpng_.png" group-title="🌍欧美频道",ION Television
