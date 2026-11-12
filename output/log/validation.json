@@ -1,21 +1,10 @@
 {
-  "generated_at": "2026-11-11 17:57:57",
-  "input_entries": 54,
-  "unique_urls": 54,
+  "generated_at": "2026-11-12 03:09:14",
+  "input_entries": 52,
+  "unique_urls": 52,
   "valid_entries": 52,
   "valid_channels": 52,
-  "invalid_entries": [
-    {
-      "channel": "CW Gold",
-      "url": "https://d1d726ny1vain2.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-femoe55fvrdvc/3bef8470-bcb1-49b1-a816-0737fa4c27cd/0.m3u8",
-      "error": "https://d1d726ny1vain2.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-femoe55fvrdvc/3bef8470-bcb1-49b1-a816-0737fa4c27cd/0.m3u8: Invalid data found when processing input"
-    },
-    {
-      "channel": "The LEGO Channel",
-      "url": "https://dh18i7whff86v.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-pslwq5nud9zg9/fc2273de-2ae1-4ed2-905d-739cf431eb30/0.m3u8",
-      "error": "https://dh18i7whff86v.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-pslwq5nud9zg9/fc2273de-2ae1-4ed2-905d-739cf431eb30/0.m3u8: Invalid data found when processing input"
-    }
-  ],
+  "invalid_entries": [],
   "valid_streams": [
     {
       "channel": "CCTV-2",
@@ -31,7 +20,7 @@
       "codec": "h264",
       "width": 1280,
       "height": 720,
-      "video_packets": 73
+      "video_packets": 75
     },
     {
       "channel": "CCTV-7",
@@ -39,7 +28,7 @@
       "codec": "h264",
       "width": 1280,
       "height": 720,
-      "video_packets": 74
+      "video_packets": 73
     },
     {
       "channel": "CCTV-10",
@@ -55,7 +44,7 @@
       "codec": "h264",
       "width": 1280,
       "height": 720,
-      "video_packets": 75
+      "video_packets": 73
     },
     {
       "channel": "CCTV-12",
@@ -87,7 +76,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 74
+      "video_packets": 73
     },
     {
       "channel": "浙江卫视",
@@ -95,15 +84,15 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 74
+      "video_packets": 73
     },
     {
       "channel": "东方卫视",
       "url": "http://74.91.26.218:82/live/dfwshd.m3u8",
       "codec": "h264",
-      "width": 1280,
-      "height": 720,
-      "video_packets": 87
+      "width": 1920,
+      "height": 1080,
+      "video_packets": 73
     },
     {
       "channel": "江苏卫视",
@@ -111,7 +100,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 72
+      "video_packets": 73
     },
     {
       "channel": "深圳卫视",
@@ -183,7 +172,7 @@
       "codec": "h264",
       "width": 1280,
       "height": 720,
-      "video_packets": 180
+      "video_packets": 179
     },
     {
       "channel": "CNN Originals",
@@ -191,7 +180,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 88
+      "video_packets": 89
     },
     {
       "channel": "BBC Antiques Roadshow UK",
@@ -207,7 +196,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 87
+      "video_packets": 89
     },
     {
       "channel": "ESPN8: The Ocho",
@@ -263,7 +252,7 @@
       "codec": "h264",
       "width": 1280,
       "height": 720,
-      "video_packets": 5
+      "video_packets": 89
     },
     {
       "channel": "MGM Present",
@@ -367,7 +356,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 89
+      "video_packets": 88
     },
     {
       "channel": "Stingray DJAZZ",
@@ -391,7 +380,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 73
+      "video_packets": 71
     },
     {
       "channel": "XITE Just Chill",
@@ -407,7 +396,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 73
+      "video_packets": 74
     },
     {
       "channel": "Deluxe RAP DE",
@@ -415,7 +404,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 76
+      "video_packets": 73
     },
     {
       "channel": "Chifeng News",
