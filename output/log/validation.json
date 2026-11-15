@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-11-14 16:39:40",
-  "input_entries": 50,
-  "unique_urls": 50,
-  "valid_entries": 49,
-  "valid_channels": 49,
+  "generated_at": "2026-11-15 02:00:11",
+  "input_entries": 49,
+  "unique_urls": 49,
+  "valid_entries": 48,
+  "valid_channels": 48,
   "invalid_entries": [
     {
-      "channel": "France 24 English",
-      "url": "https://live.france24.com/hls/live/2037218-b/F24_EN_HI_HLS/master_5000.m3u8",
-      "error": "https://live.france24.com/hls/live/2037218-b/F24_EN_HI_HLS/master_5000.m3u8: Server returned 404 Not Found"
+      "channel": "MGM Present",
+      "url": "https://ffef67628f584802af88ab884a963471.mediatailor.us-west-2.amazonaws.com/v1/manifest/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-1071-MGMPRESENTS-TCLTV/7035defd-1fc3-49cd-9dd6-8f646549cc42/0.m3u8",
+      "error": "https://ffef67628f584802af88ab884a963471.mediatailor.us-west-2.amazonaws.com/v1/manifest/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-1071-MGMPRESENTS-TCLTV/7035defd-1fc3-49cd-9dd6-8f646549cc42/0.m3u8: Invalid data found when processing input"
     }
   ],
   "valid_streams": [
@@ -18,15 +18,15 @@
       "codec": "h264",
       "width": 1280,
       "height": 720,
-      "video_packets": 73
+      "video_packets": 75
     },
     {
       "channel": "CCTV-3",
       "url": "http://74.91.26.218:82/live/cctv3hd.m3u8",
       "codec": "h264",
-      "width": 1920,
-      "height": 1080,
-      "video_packets": 73
+      "width": 1280,
+      "height": 720,
+      "video_packets": 72
     },
     {
       "channel": "CCTV-7",
@@ -34,7 +34,7 @@
       "codec": "h264",
       "width": 1280,
       "height": 720,
-      "video_packets": 75
+      "video_packets": 73
     },
     {
       "channel": "CCTV-10",
@@ -50,7 +50,7 @@
       "codec": "h264",
       "width": 1280,
       "height": 720,
-      "video_packets": 88
+      "video_packets": 73
     },
     {
       "channel": "CCTV-12",
@@ -64,8 +64,8 @@
       "channel": "CCTV-15",
       "url": "http://74.91.26.218:82/live/cctv15hd.m3u8",
       "codec": "h264",
-      "width": 1280,
-      "height": 720,
+      "width": 1920,
+      "height": 1080,
       "video_packets": 73
     },
     {
@@ -88,9 +88,9 @@
       "channel": "浙江卫视",
       "url": "http://74.91.26.218:82/live/zjwshd.m3u8",
       "codec": "h264",
-      "width": 1280,
-      "height": 720,
-      "video_packets": 89
+      "width": 1920,
+      "height": 1080,
+      "video_packets": 73
     },
     {
       "channel": "东方卫视",
@@ -98,7 +98,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 75
+      "video_packets": 73
     },
     {
       "channel": "江苏卫视",
@@ -106,7 +106,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 74
+      "video_packets": 73
     },
     {
       "channel": "深圳卫视",
@@ -114,7 +114,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 73
+      "video_packets": 75
     },
     {
       "channel": "LiveNOW from FOX",
@@ -138,7 +138,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 88
+      "video_packets": 90
     },
     {
       "channel": "Sky News International",
@@ -146,7 +146,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 89
+      "video_packets": 87
     },
     {
       "channel": "Euronews FR",
@@ -162,7 +162,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 153
+      "video_packets": 155
     },
     {
       "channel": "TRT World TR",
@@ -202,7 +202,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 89
+      "video_packets": 90
     },
     {
       "channel": "ESPN8: The Ocho",
@@ -210,7 +210,7 @@
       "codec": "hevc",
       "width": 1920,
       "height": 1080,
-      "video_packets": 88
+      "video_packets": 90
     },
     {
       "channel": "PFL",
@@ -261,14 +261,6 @@
       "video_packets": 5
     },
     {
-      "channel": "MGM Present",
-      "url": "https://ffef67628f584802af88ab884a963471.mediatailor.us-west-2.amazonaws.com/v1/manifest/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-1071-MGMPRESENTS-TCLTV/7035defd-1fc3-49cd-9dd6-8f646549cc42/0.m3u8",
-      "codec": "h264",
-      "width": 1920,
-      "height": 1080,
-      "video_packets": 90
-    },
-    {
       "channel": "OuterSphere by Lionsgate",
       "url": "https://d3o593mz1glx8d.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-1ca6ra6358f5t/00b50ee1-5798-469a-b438-53e6c394eccc/3.m3u8",
       "codec": "h264",
@@ -298,7 +290,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 89
+      "video_packets": 90
     },
     {
       "channel": "REELZ Famous & Infamous",
@@ -338,7 +330,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 88
+      "video_packets": 90
     },
     {
       "channel": "CTV Laughs CA",
@@ -354,7 +346,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 88
+      "video_packets": 90
     },
     {
       "channel": "XITE 80s Flashback",
@@ -386,7 +378,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 72
+      "video_packets": 75
     },
     {
       "channel": "Deluxe RAP DE",
@@ -394,7 +386,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 75
+      "video_packets": 66
     },
     {
       "channel": "Chifeng News",
