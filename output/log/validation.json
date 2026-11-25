@@ -1,16 +1,10 @@
 {
-  "generated_at": "2026-11-24 20:43:58",
-  "input_entries": 47,
-  "unique_urls": 47,
+  "generated_at": "2026-11-25 04:57:26",
+  "input_entries": 46,
+  "unique_urls": 46,
   "valid_entries": 46,
   "valid_channels": 46,
-  "invalid_entries": [
-    {
-      "channel": "XITE Spring Vibes",
-      "url": "https://dt1s4l2cmiyit.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fcwpee1h7t5cs/530416f1-5263-4b76-b173-89ec9966d010/3.m3u8",
-      "error": "https://dt1s4l2cmiyit.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fcwpee1h7t5cs/530416f1-5263-4b76-b173-89ec9966d010/3.m3u8: Invalid data found when processing input"
-    }
-  ],
+  "invalid_entries": [],
   "valid_streams": [
     {
       "channel": "CCTV-2",
@@ -18,7 +12,7 @@
       "codec": "h264",
       "width": 1280,
       "height": 720,
-      "video_packets": 73
+      "video_packets": 74
     },
     {
       "channel": "CCTV-3",
@@ -26,7 +20,7 @@
       "codec": "h264",
       "width": 1280,
       "height": 720,
-      "video_packets": 75
+      "video_packets": 73
     },
     {
       "channel": "CCTV-7",
@@ -58,7 +52,7 @@
       "codec": "h264",
       "width": 1280,
       "height": 720,
-      "video_packets": 73
+      "video_packets": 75
     },
     {
       "channel": "CCTV-15",
@@ -66,7 +60,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 73
+      "video_packets": 74
     },
     {
       "channel": "CCTV-17",
@@ -98,7 +92,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 73
+      "video_packets": 72
     },
     {
       "channel": "江苏卫视",
@@ -114,7 +108,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 75
+      "video_packets": 73
     },
     {
       "channel": "LiveNOW from FOX",
@@ -130,7 +124,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 89
+      "video_packets": 88
     },
     {
       "channel": "Reuters",
@@ -154,7 +148,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 90
+      "video_packets": 89
     },
     {
       "channel": "DW English DE",
@@ -162,7 +156,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 153
+      "video_packets": 149
     },
     {
       "channel": "TRT World TR",
@@ -194,7 +188,7 @@
       "codec": "h264",
       "width": 1280,
       "height": 720,
-      "video_packets": 85
+      "video_packets": 90
     },
     {
       "channel": "Billiard TV",
@@ -250,7 +244,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 90
+      "video_packets": 88
     },
     {
       "channel": "FilmRise Western",
@@ -330,7 +324,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 90
+      "video_packets": 88
     },
     {
       "channel": "Stingray DJAZZ",
@@ -338,7 +332,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 85
+      "video_packets": 90
     },
     {
       "channel": "XITE 80s Flashback",
@@ -346,7 +340,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 74
+      "video_packets": 75
     },
     {
       "channel": "XITE 90s Throwback",
@@ -354,7 +348,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 74
+      "video_packets": 73
     },
     {
       "channel": "XITE Just Chill",
@@ -362,7 +356,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 71
+      "video_packets": 72
     },
     {
       "channel": "Deluxe RAP DE",
